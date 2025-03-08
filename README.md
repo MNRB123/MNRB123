@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @MNRB123
-- 👀 I’m a fullstack developer. I am interested in problem solving in coding. 
+- 👋 Hi, I’m Mukesh
+- 👀 I’m a fullstack developer. I am interested in web development and built web application with advance technology. I am also intrested in coding problem solving.
 - 🌱 I’m currently achieved 4 star badge in HackerRank...
 - 💞️ I’m looking to collaborate on open source project and sale my projects on marketplace.
 - 📫 How to reach me - GitHub 
